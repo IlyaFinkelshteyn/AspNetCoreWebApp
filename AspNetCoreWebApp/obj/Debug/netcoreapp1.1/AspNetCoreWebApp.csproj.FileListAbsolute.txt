@@ -1,0 +1,11 @@
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\bin\Debug\netcoreapp1.1\AspNetCoreWebApp.deps.json
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\bin\Debug\netcoreapp1.1\AspNetCoreWebApp.runtimeconfig.json
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\bin\Debug\netcoreapp1.1\AspNetCoreWebApp.runtimeconfig.dev.json
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\bin\Debug\netcoreapp1.1\AspNetCoreWebApp.dll
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\bin\Debug\netcoreapp1.1\AspNetCoreWebApp.pdb
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.csprojResolveAssemblyReference.cache
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.AssemblyInfoInputs.cache
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.AssemblyInfo.cs
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.dll
+C:\Users\ilya\Documents\Visual Studio 2017\Projects\AspNetCoreWebApp\AspNetCoreWebApp\obj\Debug\netcoreapp1.1\AspNetCoreWebApp.pdb
